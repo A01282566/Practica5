@@ -118,7 +118,9 @@ Commit and push the file main.c created once you completed all the steps of the 
 
 ### Demonstration
 Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation.
+Video: https://www.youtube.com/watch?v=TXj1dMBj9Rw
 
 ## Conclusion
 
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+In conclusion, it can  be said that the objetives of this practice were achieved. I learned to build, compile and test programs through debugging in MPLAB. Also, I learned how to add headers and main programs. Additionally, I practiced how to connect the Curiosity Board and the PIC18 simulator to it. The tools that were used the most were the hammer and the records of the SFRs, where it could be seen the changes that the program caused on each variable. One problem that was presented to me was to know where to download the necessary files in MPLAB official webpage. Other challenge that I had was that because MPLAB is a very heavy program, it turned out to be very slow in performance in my computer. One suggestion could be to find ligther simulators that all computers can run. 
+
